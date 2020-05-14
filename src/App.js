@@ -104,12 +104,12 @@ function App() {
       </div>
       <div className="prepping-container">
         <div className="prepping-date">
-          Entry Test ECAT 2020 for UET Lahore on 13/14 June 2020
+          ECAT 2020 for UET Lahore on 13/14 June 2020
         </div>
         <div className="prepping-date">
           GIKI, NUST, FAST. GIKI dates coming soon!
         </div>
-        <div className="prepping-start">Start Prepping</div>
+        <div className="prepping-start">Start Preparing</div>
         <div className="cta">
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSeHcR1uoEa852yTnXGuu84Nu8cv9KwMODQ5ErW8i7i0Bgv73Q/viewform"
